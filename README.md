@@ -1,6 +1,13 @@
 # Variables package
 
 Variables package provides functionality of variant Variables and Variable Storages. 
+<<<<<<< HEAD
+=======
+Variables package supports functionality of Process, Message and Task in GoBPM. 
+
+In the same time package Variables could be used as a stand-alone package in case 
+there is necessity of use variant variables.
+>>>>>>> 7c00145e6924068684e735a3a9cbb69e67f4fd53
 
 ## Variable
 
